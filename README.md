@@ -1,5 +1,11 @@
 # bob-the-burger
-A fun react project to help you make delicious burgers while learning react and it's good practices 
+A fun react project to help you make delicious burgers while learning react and it's good practices. Play around with project here - https://burger-builder-4370f.firebaseapp.com/
+
+To Run the project do following - 
+1. Clone the project
+2. Do `npm install`
+3. Put you firebase project API key in `src/store/actions/auth`
+4. Start the project `npm start`
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
