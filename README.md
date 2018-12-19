@@ -1,3 +1,6 @@
+# bob-the-burger
+A fun react project to help you make delicious burgers while learning react and it's good practices 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
