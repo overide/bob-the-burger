@@ -1,0 +1,21 @@
+.Order{
+    width:80%;
+    padding:10px;
+    margin:10px auto;
+    border: 1px solid #eee;
+    box-shadow: 0 2px 3px #ccc;
+    box-sizing:border-box;
+}
+
+.IngredientTags{
+    text-transform: capitalize;
+    border:1px solid #ccc;
+    padding:5px;
+    margin:0px 8px;
+}
+
+.IngredientTagsHolder{
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+}
